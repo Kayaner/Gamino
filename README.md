@@ -1,3 +1,3 @@
-# Gamino = Gamer Casino
+# Gamino -> Gamer Casino
 
-# What will come Here
+#### What will come Here
